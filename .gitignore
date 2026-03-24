@@ -1,0 +1,13 @@
+# Các file chứa biến môi trường (Secrets)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Các thư mục rác của hệ thống/IDE
+node_modules/
+.DS_Store
+dist/
+build/
+.next
